@@ -86,7 +86,7 @@ while True:
                         str(result)
                         + ","
                         + str(hashrate)
-                        + ",HASSIO Miner",
+                        + ",Python3 Phone Miner",
                         encoding="utf8"))
 
                     # Get feedback about the result
